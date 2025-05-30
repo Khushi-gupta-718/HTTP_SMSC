@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+
+<property name="LOG_PATH" value="logs"/>
+
+<property name="LOG_PATTERN" value="%d{yyyy-MM-dd HH:mm:ss} [%thread] %-5level %logger{36} - %msg%n "/>
+
+
+<appender name="CONSOLE" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <pattern>${LOG_PATTERN}</pattern>
+        </encoder>
+    </appender>
+<appender name="TRACE_FILE" class="ch.qos.logback.core.rolling.RollingFileAppender">
+<file> ${LOG_PATH}/trace.log</file>
+<rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+<fileNamePattern>${LOG_PATH}/trace-%d{yyyy-MM-dd}.log</fileNamePattern>
+<maxHistory>7</maxHistory>
+</rollingPolicy>
+<encoder>
+<pattern>${LOG_PATTERN}</pattern>
+</encoder>
+</appender>
+
+<appender name="DB_FILE" class="ch.qos.logback.core.rolling.RollingFileAppender">
+<file>${LOG_PATH}/db.log</file>
+<rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+<fileNamePattern>${LOG_PATH}/db-%d{yyyy-MM-dd}.log</fileNamePattern>
+<maxHistory>7</maxHistory>
+</rollingPolicy>
+<encoder>
+<pattern>${LOG_PATTERN}</pattern>
+</encoder>
+</appender>
+
+
+<logger name="com.http.smsc" level="DEBUG" additivity="false">
+<appender-ref ref="DB_FILE"></appender-ref>
+</logger>
+
+<root level="INFO">
+    <appender-ref ref="TRACE_FILE"/>
+    <appender-ref ref="CONSOLE"/> 
+</root>
+
+
+</configuration>

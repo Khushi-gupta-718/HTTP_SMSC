@@ -1,0 +1,285 @@
+2025-05-29 11:29:09 [restartedMain] INFO  com.http.smsc.SmscApplication - Starting SmscApplication using Java 17.0.12 with PID 8824 (C:\Users\kg718\Downloads\smsc\smsc\target\classes started by kg718 in C:\Users\kg718\Downloads\smsc\smsc)
+2025-05-29 11:29:09 [restartedMain] DEBUG com.http.smsc.SmscApplication - Running with Spring Boot v3.5.0, Spring v6.2.7
+2025-05-29 11:29:09 [restartedMain] INFO  com.http.smsc.SmscApplication - No active profile set, falling back to 1 default profile: "default"
+2025-05-29 11:29:16 [restartedMain] INFO  com.http.smsc.SmscApplication - Started SmscApplication in 7.86 seconds (process running for 8.881)
+2025-05-29 11:31:02 [restartedMain] INFO  com.http.smsc.SmscApplication - Starting SmscApplication using Java 17.0.12 with PID 8824 (C:\Users\kg718\Downloads\smsc\smsc\target\classes started by kg718 in C:\Users\kg718\Downloads\smsc\smsc)
+2025-05-29 11:31:02 [restartedMain] DEBUG com.http.smsc.SmscApplication - Running with Spring Boot v3.5.0, Spring v6.2.7
+2025-05-29 11:31:02 [restartedMain] INFO  com.http.smsc.SmscApplication - No active profile set, falling back to 1 default profile: "default"
+2025-05-29 11:31:04 [restartedMain] INFO  com.http.smsc.SmscApplication - Started SmscApplication in 1.388 seconds (process running for 116.701)
+2025-05-29 11:32:03 [restartedMain] INFO  com.http.smsc.SmscApplication - Starting SmscApplication using Java 17.0.12 with PID 8824 (C:\Users\kg718\Downloads\smsc\smsc\target\classes started by kg718 in C:\Users\kg718\Downloads\smsc\smsc)
+2025-05-29 11:32:03 [restartedMain] DEBUG com.http.smsc.SmscApplication - Running with Spring Boot v3.5.0, Spring v6.2.7
+2025-05-29 11:32:03 [restartedMain] INFO  com.http.smsc.SmscApplication - No active profile set, falling back to 1 default profile: "default"
+2025-05-29 11:32:04 [restartedMain] INFO  com.http.smsc.SmscApplication - Started SmscApplication in 1.235 seconds (process running for 177.241)
+2025-05-29 11:32:40 [restartedMain] INFO  com.http.smsc.SmscApplication - Starting SmscApplication using Java 17.0.12 with PID 12164 (C:\Users\kg718\Downloads\smsc\smsc\target\classes started by kg718 in C:\Users\kg718\Downloads\smsc\smsc)
+2025-05-29 11:32:40 [restartedMain] DEBUG com.http.smsc.SmscApplication - Running with Spring Boot v3.5.0, Spring v6.2.7
+2025-05-29 11:32:40 [restartedMain] INFO  com.http.smsc.SmscApplication - No active profile set, falling back to 1 default profile: "default"
+2025-05-29 11:32:47 [restartedMain] INFO  com.http.smsc.SmscApplication - Started SmscApplication in 7.752 seconds (process running for 8.578)
+2025-05-29 11:33:43 [http-nio-8080-exec-2] INFO  c.h.s.s.impl.HttpSmscServiceImpl - Created HttpSmscEntry with systemId: Userxml48
+2025-05-29 11:34:21 [http-nio-8080-exec-3] INFO  c.h.s.s.impl.HttpSmscServiceImpl - Updated HttpSmscEntry with systemId: Userxml48
+2025-05-29 11:34:56 [http-nio-8080-exec-5] INFO  c.h.s.s.impl.HttpSmscServiceImpl - Fetched 6 valid records on page 0
+2025-05-29 11:35:24 [http-nio-8080-exec-6] WARN  c.h.s.s.impl.HttpSmscServiceImpl - Delete failed: HttpSmscEntry not found with systemId: shujdk234
+2025-05-29 11:35:31 [http-nio-8080-exec-7] INFO  c.h.s.s.impl.HttpSmscServiceImpl - Deleted HttpSmscEntry with systemId: Userxml48
+2025-05-29 12:01:32 [restartedMain] INFO  com.http.smsc.SmscApplication - Starting SmscApplication using Java 17.0.12 with PID 20756 (C:\Users\kg718\Downloads\smsc\smsc\target\classes started by kg718 in C:\Users\kg718\Downloads\smsc\smsc)
+2025-05-29 12:01:32 [restartedMain] DEBUG com.http.smsc.SmscApplication - Running with Spring Boot v3.5.0, Spring v6.2.7
+2025-05-29 12:01:32 [restartedMain] INFO  com.http.smsc.SmscApplication - No active profile set, falling back to 1 default profile: "default"
+2025-05-29 12:01:39 [restartedMain] INFO  com.http.smsc.SmscApplication - Started SmscApplication in 8.128 seconds (process running for 8.776)
+2025-05-29 12:02:09 [http-nio-8080-exec-2] INFO  c.h.s.s.impl.HttpSmscServiceImpl - Created HttpSmscEntry with systemId: smsc00185934598
+2025-05-29 12:02:32 [http-nio-8080-exec-4] INFO  c.h.s.s.impl.HttpSmscServiceImpl - Created HttpSmscEntry with systemId: smsc00185934598
+2025-05-29 12:02:39 [http-nio-8080-exec-6] INFO  c.h.s.s.impl.HttpSmscServiceImpl - Created HttpSmscEntry with systemId: smsc00185934598
+2025-05-29 12:02:49 [http-nio-8080-exec-7] INFO  c.h.s.s.impl.HttpSmscServiceImpl - Created HttpSmscEntry with systemId: smsc00185934598
+2025-05-29 12:04:09 [http-nio-8080-exec-9] INFO  c.h.s.s.impl.HttpSmscServiceImpl - Created HttpSmscEntry with systemId: smsc00185934598
+2025-05-29 12:06:20 [http-nio-8080-exec-7] INFO  c.h.s.s.impl.HttpSmscServiceImpl - Created HttpSmscEntry with systemId: smsc00185934598
+2025-05-29 12:10:24 [http-nio-8080-exec-5] INFO  c.h.s.s.impl.HttpSmscServiceImpl - Fetched 11 valid records on page 0
+2025-05-29 12:11:04 [http-nio-8080-exec-4] INFO  c.h.s.s.impl.HttpSmscServiceImpl - Fetched 6 valid records on page 0
+2025-05-29 12:13:11 [http-nio-8080-exec-9] INFO  c.h.s.s.impl.HttpSmscServiceImpl - Created HttpSmscEntry with systemId: smsc00185934598
+2025-05-29 12:17:24 [restartedMain] INFO  com.http.smsc.SmscApplication - Starting SmscApplication using Java 17.0.12 with PID 22672 (C:\Users\kg718\Downloads\smsc\smsc\target\classes started by kg718 in C:\Users\kg718\Downloads\smsc\smsc)
+2025-05-29 12:17:24 [restartedMain] DEBUG com.http.smsc.SmscApplication - Running with Spring Boot v3.5.0, Spring v6.2.7
+2025-05-29 12:17:24 [restartedMain] INFO  com.http.smsc.SmscApplication - No active profile set, falling back to 1 default profile: "default"
+2025-05-29 12:17:31 [restartedMain] INFO  com.http.smsc.SmscApplication - Started SmscApplication in 8.2 seconds (process running for 9.113)
+2025-05-29 12:30:17 [restartedMain] INFO  com.http.smsc.SmscApplication - Starting SmscApplication using Java 17.0.12 with PID 5944 (C:\Users\kg718\Downloads\smsc\smsc\target\classes started by kg718 in C:\Users\kg718\Downloads\smsc\smsc)
+2025-05-29 12:30:17 [restartedMain] DEBUG com.http.smsc.SmscApplication - Running with Spring Boot v3.5.0, Spring v6.2.7
+2025-05-29 12:30:17 [restartedMain] INFO  com.http.smsc.SmscApplication - No active profile set, falling back to 1 default profile: "default"
+2025-05-29 12:30:24 [restartedMain] INFO  com.http.smsc.SmscApplication - Started SmscApplication in 8.25 seconds (process running for 9.015)
+2025-05-29 12:30:31 [http-nio-8080-exec-2] INFO  c.h.s.s.impl.HttpSmscServiceImpl - Created HttpSmscEntry with systemId: smsc00185934598
+2025-05-29 12:32:53 [restartedMain] INFO  com.http.smsc.SmscApplication - Starting SmscApplication using Java 17.0.12 with PID 5944 (C:\Users\kg718\Downloads\smsc\smsc\target\classes started by kg718 in C:\Users\kg718\Downloads\smsc\smsc)
+2025-05-29 12:32:53 [restartedMain] DEBUG com.http.smsc.SmscApplication - Running with Spring Boot v3.5.0, Spring v6.2.7
+2025-05-29 12:32:53 [restartedMain] INFO  com.http.smsc.SmscApplication - No active profile set, falling back to 1 default profile: "default"
+2025-05-29 12:32:54 [restartedMain] INFO  com.http.smsc.SmscApplication - Started SmscApplication in 1.358 seconds (process running for 159.014)
+2025-05-29 12:33:22 [restartedMain] INFO  com.http.smsc.SmscApplication - Starting SmscApplication using Java 17.0.12 with PID 5944 (C:\Users\kg718\Downloads\smsc\smsc\target\classes started by kg718 in C:\Users\kg718\Downloads\smsc\smsc)
+2025-05-29 12:33:22 [restartedMain] DEBUG com.http.smsc.SmscApplication - Running with Spring Boot v3.5.0, Spring v6.2.7
+2025-05-29 12:33:22 [restartedMain] INFO  com.http.smsc.SmscApplication - No active profile set, falling back to 1 default profile: "default"
+2025-05-29 12:33:25 [restartedMain] INFO  com.http.smsc.SmscApplication - Starting SmscApplication using Java 17.0.12 with PID 5944 (C:\Users\kg718\Downloads\smsc\smsc\target\classes started by kg718 in C:\Users\kg718\Downloads\smsc\smsc)
+2025-05-29 12:33:25 [restartedMain] DEBUG com.http.smsc.SmscApplication - Running with Spring Boot v3.5.0, Spring v6.2.7
+2025-05-29 12:33:25 [restartedMain] INFO  com.http.smsc.SmscApplication - No active profile set, falling back to 1 default profile: "default"
+2025-05-29 12:33:26 [restartedMain] INFO  com.http.smsc.SmscApplication - Started SmscApplication in 1.182 seconds (process running for 191.016)
+2025-05-29 12:33:42 [http-nio-8080-exec-2] INFO  c.h.s.s.impl.HttpSmscServiceImpl - Created HttpSmscEntry with systemId: smsc00185934598
+2025-05-29 12:35:16 [http-nio-8080-exec-5] INFO  c.h.s.s.impl.HttpSmscServiceImpl - Created HttpSmscEntry with systemId: smsc00185934598
+2025-05-29 12:36:46 [restartedMain] INFO  com.http.smsc.SmscApplication - Starting SmscApplication using Java 17.0.12 with PID 5944 (C:\Users\kg718\Downloads\smsc\smsc\target\classes started by kg718 in C:\Users\kg718\Downloads\smsc\smsc)
+2025-05-29 12:36:46 [restartedMain] DEBUG com.http.smsc.SmscApplication - Running with Spring Boot v3.5.0, Spring v6.2.7
+2025-05-29 12:36:46 [restartedMain] INFO  com.http.smsc.SmscApplication - No active profile set, falling back to 1 default profile: "default"
+2025-05-29 12:36:47 [restartedMain] INFO  com.http.smsc.SmscApplication - Started SmscApplication in 1.033 seconds (process running for 392.002)
+2025-05-29 12:36:55 [restartedMain] INFO  com.http.smsc.SmscApplication - Starting SmscApplication using Java 17.0.12 with PID 5944 (C:\Users\kg718\Downloads\smsc\smsc\target\classes started by kg718 in C:\Users\kg718\Downloads\smsc\smsc)
+2025-05-29 12:36:55 [restartedMain] DEBUG com.http.smsc.SmscApplication - Running with Spring Boot v3.5.0, Spring v6.2.7
+2025-05-29 12:36:55 [restartedMain] INFO  com.http.smsc.SmscApplication - No active profile set, falling back to 1 default profile: "default"
+2025-05-29 12:36:56 [restartedMain] INFO  com.http.smsc.SmscApplication - Started SmscApplication in 0.999 seconds (process running for 400.808)
+2025-05-29 12:37:04 [restartedMain] INFO  com.http.smsc.SmscApplication - Starting SmscApplication using Java 17.0.12 with PID 5944 (C:\Users\kg718\Downloads\smsc\smsc\target\classes started by kg718 in C:\Users\kg718\Downloads\smsc\smsc)
+2025-05-29 12:37:04 [restartedMain] DEBUG com.http.smsc.SmscApplication - Running with Spring Boot v3.5.0, Spring v6.2.7
+2025-05-29 12:37:04 [restartedMain] INFO  com.http.smsc.SmscApplication - No active profile set, falling back to 1 default profile: "default"
+2025-05-29 12:37:05 [restartedMain] INFO  com.http.smsc.SmscApplication - Started SmscApplication in 1.078 seconds (process running for 409.64)
+2025-05-29 12:37:40 [restartedMain] INFO  com.http.smsc.SmscApplication - Starting SmscApplication using Java 17.0.12 with PID 5944 (C:\Users\kg718\Downloads\smsc\smsc\target\classes started by kg718 in C:\Users\kg718\Downloads\smsc\smsc)
+2025-05-29 12:37:40 [restartedMain] DEBUG com.http.smsc.SmscApplication - Running with Spring Boot v3.5.0, Spring v6.2.7
+2025-05-29 12:37:40 [restartedMain] INFO  com.http.smsc.SmscApplication - No active profile set, falling back to 1 default profile: "default"
+2025-05-29 12:37:40 [restartedMain] INFO  com.http.smsc.SmscApplication - Started SmscApplication in 0.966 seconds (process running for 445.124)
+2025-05-29 12:38:00 [restartedMain] INFO  com.http.smsc.SmscApplication - Starting SmscApplication using Java 17.0.12 with PID 5944 (C:\Users\kg718\Downloads\smsc\smsc\target\classes started by kg718 in C:\Users\kg718\Downloads\smsc\smsc)
+2025-05-29 12:38:00 [restartedMain] DEBUG com.http.smsc.SmscApplication - Running with Spring Boot v3.5.0, Spring v6.2.7
+2025-05-29 12:38:00 [restartedMain] INFO  com.http.smsc.SmscApplication - No active profile set, falling back to 1 default profile: "default"
+2025-05-29 12:38:01 [restartedMain] INFO  com.http.smsc.SmscApplication - Started SmscApplication in 1.105 seconds (process running for 465.288)
+2025-05-29 12:38:07 [restartedMain] INFO  com.http.smsc.SmscApplication - Starting SmscApplication using Java 17.0.12 with PID 5944 (C:\Users\kg718\Downloads\smsc\smsc\target\classes started by kg718 in C:\Users\kg718\Downloads\smsc\smsc)
+2025-05-29 12:38:07 [restartedMain] DEBUG com.http.smsc.SmscApplication - Running with Spring Boot v3.5.0, Spring v6.2.7
+2025-05-29 12:38:07 [restartedMain] INFO  com.http.smsc.SmscApplication - No active profile set, falling back to 1 default profile: "default"
+2025-05-29 12:38:08 [restartedMain] INFO  com.http.smsc.SmscApplication - Started SmscApplication in 0.839 seconds (process running for 472.863)
+2025-05-29 12:40:20 [restartedMain] INFO  com.http.smsc.SmscApplication - Starting SmscApplication using Java 17.0.12 with PID 5944 (C:\Users\kg718\Downloads\smsc\smsc\target\classes started by kg718 in C:\Users\kg718\Downloads\smsc\smsc)
+2025-05-29 12:40:20 [restartedMain] DEBUG com.http.smsc.SmscApplication - Running with Spring Boot v3.5.0, Spring v6.2.7
+2025-05-29 12:40:20 [restartedMain] INFO  com.http.smsc.SmscApplication - No active profile set, falling back to 1 default profile: "default"
+2025-05-29 12:40:21 [restartedMain] INFO  com.http.smsc.SmscApplication - Started SmscApplication in 1.123 seconds (process running for 606.095)
+2025-05-29 12:40:27 [restartedMain] INFO  com.http.smsc.SmscApplication - Starting SmscApplication using Java 17.0.12 with PID 5944 (C:\Users\kg718\Downloads\smsc\smsc\target\classes started by kg718 in C:\Users\kg718\Downloads\smsc\smsc)
+2025-05-29 12:40:27 [restartedMain] DEBUG com.http.smsc.SmscApplication - Running with Spring Boot v3.5.0, Spring v6.2.7
+2025-05-29 12:40:27 [restartedMain] INFO  com.http.smsc.SmscApplication - No active profile set, falling back to 1 default profile: "default"
+2025-05-29 12:40:28 [restartedMain] INFO  com.http.smsc.SmscApplication - Started SmscApplication in 0.995 seconds (process running for 612.813)
+2025-05-29 12:40:43 [restartedMain] INFO  com.http.smsc.SmscApplication - Starting SmscApplication using Java 17.0.12 with PID 5944 (C:\Users\kg718\Downloads\smsc\smsc\target\classes started by kg718 in C:\Users\kg718\Downloads\smsc\smsc)
+2025-05-29 12:40:43 [restartedMain] DEBUG com.http.smsc.SmscApplication - Running with Spring Boot v3.5.0, Spring v6.2.7
+2025-05-29 12:40:43 [restartedMain] INFO  com.http.smsc.SmscApplication - No active profile set, falling back to 1 default profile: "default"
+2025-05-29 12:40:44 [restartedMain] INFO  com.http.smsc.SmscApplication - Started SmscApplication in 0.912 seconds (process running for 628.713)
+2025-05-29 12:45:21 [restartedMain] INFO  com.http.smsc.SmscApplication - Starting SmscApplication using Java 17.0.12 with PID 5944 (C:\Users\kg718\Downloads\smsc\smsc\target\classes started by kg718 in C:\Users\kg718\Downloads\smsc\smsc)
+2025-05-29 12:45:21 [restartedMain] DEBUG com.http.smsc.SmscApplication - Running with Spring Boot v3.5.0, Spring v6.2.7
+2025-05-29 12:45:21 [restartedMain] INFO  com.http.smsc.SmscApplication - No active profile set, falling back to 1 default profile: "default"
+2025-05-29 12:45:21 [restartedMain] INFO  com.http.smsc.SmscApplication - Started SmscApplication in 0.747 seconds (process running for 905.844)
+2025-05-29 12:48:49 [restartedMain] INFO  com.http.smsc.SmscApplication - Starting SmscApplication using Java 17.0.12 with PID 23616 (C:\Users\kg718\Downloads\smsc\smsc\target\classes started by kg718 in C:\Users\kg718\Downloads\smsc\smsc)
+2025-05-29 12:48:49 [restartedMain] DEBUG com.http.smsc.SmscApplication - Running with Spring Boot v3.5.0, Spring v6.2.7
+2025-05-29 12:48:49 [restartedMain] INFO  com.http.smsc.SmscApplication - No active profile set, falling back to 1 default profile: "default"
+2025-05-29 12:48:57 [restartedMain] INFO  com.http.smsc.SmscApplication - Started SmscApplication in 9.565 seconds (process running for 10.375)
+2025-05-29 12:55:36 [restartedMain] INFO  com.http.smsc.SmscApplication - Starting SmscApplication using Java 17.0.12 with PID 23616 (C:\Users\kg718\Downloads\smsc\smsc\target\classes started by kg718 in C:\Users\kg718\Downloads\smsc\smsc)
+2025-05-29 12:55:36 [restartedMain] DEBUG com.http.smsc.SmscApplication - Running with Spring Boot v3.5.0, Spring v6.2.7
+2025-05-29 12:55:36 [restartedMain] INFO  com.http.smsc.SmscApplication - No active profile set, falling back to 1 default profile: "default"
+2025-05-29 13:02:44 [restartedMain] INFO  com.http.smsc.SmscApplication - Starting SmscApplication using Java 17.0.12 with PID 21476 (C:\Users\kg718\Downloads\smsc\smsc\target\classes started by kg718 in C:\Users\kg718\Downloads\smsc\smsc)
+2025-05-29 13:02:44 [restartedMain] DEBUG com.http.smsc.SmscApplication - Running with Spring Boot v3.5.0, Spring v6.2.7
+2025-05-29 13:02:44 [restartedMain] INFO  com.http.smsc.SmscApplication - No active profile set, falling back to 1 default profile: "default"
+2025-05-29 13:02:52 [restartedMain] INFO  com.http.smsc.SmscApplication - Started SmscApplication in 8.422 seconds (process running for 9.412)
+2025-05-29 13:04:27 [restartedMain] INFO  com.http.smsc.SmscApplication - Starting SmscApplication using Java 17.0.12 with PID 21476 (C:\Users\kg718\Downloads\smsc\smsc\target\classes started by kg718 in C:\Users\kg718\Downloads\smsc\smsc)
+2025-05-29 13:04:27 [restartedMain] DEBUG com.http.smsc.SmscApplication - Running with Spring Boot v3.5.0, Spring v6.2.7
+2025-05-29 13:04:27 [restartedMain] INFO  com.http.smsc.SmscApplication - No active profile set, falling back to 1 default profile: "default"
+2025-05-29 13:07:59 [restartedMain] INFO  com.http.smsc.SmscApplication - Starting SmscApplication using Java 17.0.12 with PID 17052 (C:\Users\kg718\Downloads\smsc\smsc\target\classes started by kg718 in C:\Users\kg718\Downloads\smsc\smsc)
+2025-05-29 13:07:59 [restartedMain] DEBUG com.http.smsc.SmscApplication - Running with Spring Boot v3.5.0, Spring v6.2.7
+2025-05-29 13:07:59 [restartedMain] INFO  com.http.smsc.SmscApplication - No active profile set, falling back to 1 default profile: "default"
+2025-05-29 13:08:07 [restartedMain] INFO  com.http.smsc.SmscApplication - Started SmscApplication in 9.23 seconds (process running for 10.34)
+2025-05-29 13:08:17 [http-nio-8080-exec-2] INFO  c.h.s.s.impl.HttpSmscServiceImpl - Created HttpSmscEntry with systemId: Userxml48987
+2025-05-29 13:09:14 [restartedMain] INFO  com.http.smsc.SmscApplication - Starting SmscApplication using Java 17.0.12 with PID 17052 (C:\Users\kg718\Downloads\smsc\smsc\target\classes started by kg718 in C:\Users\kg718\Downloads\smsc\smsc)
+2025-05-29 13:09:14 [restartedMain] DEBUG com.http.smsc.SmscApplication - Running with Spring Boot v3.5.0, Spring v6.2.7
+2025-05-29 13:09:14 [restartedMain] INFO  com.http.smsc.SmscApplication - No active profile set, falling back to 1 default profile: "default"
+2025-05-29 13:09:16 [restartedMain] INFO  com.http.smsc.SmscApplication - Started SmscApplication in 1.609 seconds (process running for 79.374)
+2025-05-29 13:09:52 [restartedMain] INFO  com.http.smsc.SmscApplication - Starting SmscApplication using Java 17.0.12 with PID 17052 (C:\Users\kg718\Downloads\smsc\smsc\target\classes started by kg718 in C:\Users\kg718\Downloads\smsc\smsc)
+2025-05-29 13:09:52 [restartedMain] DEBUG com.http.smsc.SmscApplication - Running with Spring Boot v3.5.0, Spring v6.2.7
+2025-05-29 13:09:52 [restartedMain] INFO  com.http.smsc.SmscApplication - No active profile set, falling back to 1 default profile: "default"
+2025-05-29 13:09:54 [restartedMain] INFO  com.http.smsc.SmscApplication - Started SmscApplication in 1.34 seconds (process running for 117.24)
+2025-05-29 13:11:04 [restartedMain] INFO  com.http.smsc.SmscApplication - Starting SmscApplication using Java 17.0.12 with PID 17052 (C:\Users\kg718\Downloads\smsc\smsc\target\classes started by kg718 in C:\Users\kg718\Downloads\smsc\smsc)
+2025-05-29 13:11:04 [restartedMain] DEBUG com.http.smsc.SmscApplication - Running with Spring Boot v3.5.0, Spring v6.2.7
+2025-05-29 13:11:04 [restartedMain] INFO  com.http.smsc.SmscApplication - No active profile set, falling back to 1 default profile: "default"
+2025-05-29 13:11:05 [restartedMain] INFO  com.http.smsc.SmscApplication - Started SmscApplication in 1.001 seconds (process running for 188.8)
+2025-05-29 13:11:56 [http-nio-8080-exec-4] INFO  c.h.s.s.impl.HttpSmscServiceImpl - Created HttpSmscEntry with systemId: Userxml48987
+2025-05-29 13:12:03 [http-nio-8080-exec-5] INFO  c.h.s.s.impl.HttpSmscServiceImpl - Created HttpSmscEntry with systemId: Userxml48987
+2025-05-29 13:12:40 [http-nio-8080-exec-8] INFO  c.h.s.s.impl.HttpSmscServiceImpl - Created HttpSmscEntry with systemId: Userxml48987
+2025-05-29 13:12:46 [http-nio-8080-exec-9] INFO  c.h.s.s.impl.HttpSmscServiceImpl - Created HttpSmscEntry with systemId: Userxml48987
+2025-05-29 13:12:52 [http-nio-8080-exec-10] INFO  c.h.s.s.impl.HttpSmscServiceImpl - Created HttpSmscEntry with systemId: Userxml48987
+2025-05-29 13:12:58 [http-nio-8080-exec-2] INFO  c.h.s.s.impl.HttpSmscServiceImpl - Created HttpSmscEntry with systemId: Userxml48987
+2025-05-29 13:15:41 [http-nio-8080-exec-6] INFO  c.h.s.s.impl.HttpSmscServiceImpl - Created HttpSmscEntry with systemId: Userxml48987
+2025-05-29 13:18:04 [restartedMain] INFO  com.http.smsc.SmscApplication - Starting SmscApplication using Java 17.0.12 with PID 17052 (C:\Users\kg718\Downloads\smsc\smsc\target\classes started by kg718 in C:\Users\kg718\Downloads\smsc\smsc)
+2025-05-29 13:18:04 [restartedMain] DEBUG com.http.smsc.SmscApplication - Running with Spring Boot v3.5.0, Spring v6.2.7
+2025-05-29 13:18:04 [restartedMain] INFO  com.http.smsc.SmscApplication - No active profile set, falling back to 1 default profile: "default"
+2025-05-29 13:18:05 [restartedMain] INFO  com.http.smsc.SmscApplication - Started SmscApplication in 0.961 seconds (process running for 608.36)
+2025-05-29 13:18:14 [restartedMain] INFO  com.http.smsc.SmscApplication - Starting SmscApplication using Java 17.0.12 with PID 17052 (C:\Users\kg718\Downloads\smsc\smsc\target\classes started by kg718 in C:\Users\kg718\Downloads\smsc\smsc)
+2025-05-29 13:18:14 [restartedMain] DEBUG com.http.smsc.SmscApplication - Running with Spring Boot v3.5.0, Spring v6.2.7
+2025-05-29 13:18:14 [restartedMain] INFO  com.http.smsc.SmscApplication - No active profile set, falling back to 1 default profile: "default"
+2025-05-29 13:18:15 [restartedMain] INFO  com.http.smsc.SmscApplication - Started SmscApplication in 1.226 seconds (process running for 618.37)
+2025-05-29 13:28:31 [restartedMain] INFO  com.http.smsc.SmscApplication - Starting SmscApplication using Java 17.0.12 with PID 24640 (C:\Users\kg718\Downloads\smsc\smsc\target\classes started by kg718 in C:\Users\kg718\Downloads\smsc\smsc)
+2025-05-29 13:28:31 [restartedMain] DEBUG com.http.smsc.SmscApplication - Running with Spring Boot v3.5.0, Spring v6.2.7
+2025-05-29 13:28:31 [restartedMain] INFO  com.http.smsc.SmscApplication - No active profile set, falling back to 1 default profile: "default"
+2025-05-29 13:28:38 [restartedMain] INFO  com.http.smsc.SmscApplication - Started SmscApplication in 8.103 seconds (process running for 8.901)
+2025-05-29 13:28:43 [http-nio-8080-exec-2] INFO  c.h.s.s.impl.HttpSmscServiceImpl - Created HttpSmscEntry with systemId: Userxml48987
+2025-05-29 13:29:31 [restartedMain] INFO  com.http.smsc.SmscApplication - Starting SmscApplication using Java 17.0.12 with PID 24640 (C:\Users\kg718\Downloads\smsc\smsc\target\classes started by kg718 in C:\Users\kg718\Downloads\smsc\smsc)
+2025-05-29 13:29:31 [restartedMain] DEBUG com.http.smsc.SmscApplication - Running with Spring Boot v3.5.0, Spring v6.2.7
+2025-05-29 13:29:31 [restartedMain] INFO  com.http.smsc.SmscApplication - No active profile set, falling back to 1 default profile: "default"
+2025-05-29 13:29:32 [restartedMain] INFO  com.http.smsc.SmscApplication - Started SmscApplication in 1.507 seconds (process running for 63.353)
+2025-05-29 13:29:38 [restartedMain] INFO  com.http.smsc.SmscApplication - Starting SmscApplication using Java 17.0.12 with PID 24640 (C:\Users\kg718\Downloads\smsc\smsc\target\classes started by kg718 in C:\Users\kg718\Downloads\smsc\smsc)
+2025-05-29 13:29:38 [restartedMain] DEBUG com.http.smsc.SmscApplication - Running with Spring Boot v3.5.0, Spring v6.2.7
+2025-05-29 13:29:38 [restartedMain] INFO  com.http.smsc.SmscApplication - No active profile set, falling back to 1 default profile: "default"
+2025-05-29 13:29:39 [restartedMain] INFO  com.http.smsc.SmscApplication - Started SmscApplication in 1.03 seconds (process running for 70.076)
+2025-05-29 13:30:18 [restartedMain] INFO  com.http.smsc.SmscApplication - Starting SmscApplication using Java 17.0.12 with PID 24640 (C:\Users\kg718\Downloads\smsc\smsc\target\classes started by kg718 in C:\Users\kg718\Downloads\smsc\smsc)
+2025-05-29 13:30:18 [restartedMain] DEBUG com.http.smsc.SmscApplication - Running with Spring Boot v3.5.0, Spring v6.2.7
+2025-05-29 13:30:18 [restartedMain] INFO  com.http.smsc.SmscApplication - No active profile set, falling back to 1 default profile: "default"
+2025-05-29 13:30:19 [restartedMain] INFO  com.http.smsc.SmscApplication - Started SmscApplication in 1.159 seconds (process running for 109.832)
+2025-05-29 13:30:23 [http-nio-8080-exec-2] INFO  c.h.s.s.impl.HttpSmscServiceImpl - Created HttpSmscEntry with systemId: Userxml48987
+2025-05-29 13:31:19 [http-nio-8080-exec-1] INFO  c.h.s.s.impl.HttpSmscServiceImpl - Created HttpSmscEntry with systemId: Userxml48987
+2025-05-29 13:31:29 [http-nio-8080-exec-2] INFO  c.h.s.s.impl.HttpSmscServiceImpl - Created HttpSmscEntry with systemId: Userxml48987
+2025-05-29 13:31:35 [http-nio-8080-exec-4] INFO  c.h.s.s.impl.HttpSmscServiceImpl - Created HttpSmscEntry with systemId: Userxml48987
+2025-05-29 13:33:43 [restartedMain] INFO  com.http.smsc.SmscApplication - Starting SmscApplication using Java 17.0.12 with PID 24640 (C:\Users\kg718\Downloads\smsc\smsc\target\classes started by kg718 in C:\Users\kg718\Downloads\smsc\smsc)
+2025-05-29 13:33:43 [restartedMain] DEBUG com.http.smsc.SmscApplication - Running with Spring Boot v3.5.0, Spring v6.2.7
+2025-05-29 13:33:43 [restartedMain] INFO  com.http.smsc.SmscApplication - No active profile set, falling back to 1 default profile: "default"
+2025-05-29 13:33:45 [restartedMain] INFO  com.http.smsc.SmscApplication - Started SmscApplication in 1.959 seconds (process running for 315.919)
+2025-05-29 13:34:34 [http-nio-8080-exec-3] INFO  c.h.s.s.impl.HttpSmscServiceImpl - Created HttpSmscEntry with systemId: Userxml48987
+2025-05-29 13:36:38 [restartedMain] INFO  com.http.smsc.SmscApplication - Starting SmscApplication using Java 17.0.12 with PID 24640 (C:\Users\kg718\Downloads\smsc\smsc\target\classes started by kg718 in C:\Users\kg718\Downloads\smsc\smsc)
+2025-05-29 13:36:38 [restartedMain] DEBUG com.http.smsc.SmscApplication - Running with Spring Boot v3.5.0, Spring v6.2.7
+2025-05-29 13:36:38 [restartedMain] INFO  com.http.smsc.SmscApplication - No active profile set, falling back to 1 default profile: "default"
+2025-05-29 13:36:39 [restartedMain] INFO  com.http.smsc.SmscApplication - Started SmscApplication in 1.358 seconds (process running for 490.148)
+2025-05-29 13:37:13 [http-nio-8080-exec-1] INFO  c.h.s.s.impl.HttpSmscServiceImpl - Created HttpSmscEntry with systemId: Userxml48987
+2025-05-29 13:37:20 [http-nio-8080-exec-5] INFO  c.h.s.s.impl.HttpSmscServiceImpl - Created HttpSmscEntry with systemId: Userxml48987
+2025-05-29 13:37:27 [http-nio-8080-exec-7] INFO  c.h.s.s.impl.HttpSmscServiceImpl - Created HttpSmscEntry with systemId: Userxml48987
+2025-05-29 13:53:12 [restartedMain] INFO  com.http.smsc.SmscApplication - Starting SmscApplication using Java 17.0.12 with PID 24640 (C:\Users\kg718\Downloads\smsc\smsc\target\classes started by kg718 in C:\Users\kg718\Downloads\smsc\smsc)
+2025-05-29 13:53:12 [restartedMain] DEBUG com.http.smsc.SmscApplication - Running with Spring Boot v3.5.0, Spring v6.2.7
+2025-05-29 13:53:12 [restartedMain] INFO  com.http.smsc.SmscApplication - No active profile set, falling back to 1 default profile: "default"
+2025-05-29 13:53:13 [restartedMain] INFO  com.http.smsc.SmscApplication - Started SmscApplication in 1.015 seconds (process running for 1484.496)
+2025-05-29 13:53:16 [restartedMain] INFO  com.http.smsc.SmscApplication - Starting SmscApplication using Java 17.0.12 with PID 24640 (C:\Users\kg718\Downloads\smsc\smsc\target\classes started by kg718 in C:\Users\kg718\Downloads\smsc\smsc)
+2025-05-29 13:53:16 [restartedMain] DEBUG com.http.smsc.SmscApplication - Running with Spring Boot v3.5.0, Spring v6.2.7
+2025-05-29 13:53:16 [restartedMain] INFO  com.http.smsc.SmscApplication - No active profile set, falling back to 1 default profile: "default"
+2025-05-29 13:53:17 [restartedMain] INFO  com.http.smsc.SmscApplication - Started SmscApplication in 0.558 seconds (process running for 1487.619)
+2025-05-29 13:53:29 [http-nio-8080-exec-2] INFO  c.h.s.s.impl.HttpSmscServiceImpl - Created HttpSmscEntry with systemId: Userxml48987
+2025-05-29 13:53:39 [http-nio-8080-exec-3] INFO  c.h.s.s.impl.HttpSmscServiceImpl - Created HttpSmscEntry with systemId: Userxml48987
+2025-05-29 13:54:06 [http-nio-8080-exec-4] INFO  c.h.s.s.impl.HttpSmscServiceImpl - Created HttpSmscEntry with systemId: Userxml48987
+2025-05-29 13:55:16 [http-nio-8080-exec-7] INFO  c.h.s.s.impl.HttpSmscServiceImpl - Created HttpSmscEntry with systemId: smsc00185934598
+2025-05-29 13:57:58 [restartedMain] INFO  com.http.smsc.SmscApplication - Starting SmscApplication using Java 17.0.12 with PID 1072 (C:\Users\kg718\Downloads\smsc\smsc\target\classes started by kg718 in C:\Users\kg718\Downloads\smsc\smsc)
+2025-05-29 13:57:58 [restartedMain] DEBUG com.http.smsc.SmscApplication - Running with Spring Boot v3.5.0, Spring v6.2.7
+2025-05-29 13:57:58 [restartedMain] INFO  com.http.smsc.SmscApplication - No active profile set, falling back to 1 default profile: "default"
+2025-05-29 13:58:05 [restartedMain] INFO  com.http.smsc.SmscApplication - Started SmscApplication in 7.778 seconds (process running for 8.372)
+2025-05-29 13:58:12 [http-nio-8080-exec-1] INFO  c.h.s.s.impl.HttpSmscServiceImpl - Created HttpSmscEntry with systemId: s8
+2025-05-29 13:58:17 [http-nio-8080-exec-3] INFO  c.h.s.s.impl.HttpSmscServiceImpl - Created HttpSmscEntry with systemId: s8
+2025-05-29 13:58:24 [http-nio-8080-exec-4] INFO  c.h.s.s.impl.HttpSmscServiceImpl - Created HttpSmscEntry with systemId: s8
+2025-05-29 13:58:44 [restartedMain] INFO  com.http.smsc.SmscApplication - Starting SmscApplication using Java 17.0.12 with PID 1072 (C:\Users\kg718\Downloads\smsc\smsc\target\classes started by kg718 in C:\Users\kg718\Downloads\smsc\smsc)
+2025-05-29 13:58:44 [restartedMain] DEBUG com.http.smsc.SmscApplication - Running with Spring Boot v3.5.0, Spring v6.2.7
+2025-05-29 13:58:44 [restartedMain] INFO  com.http.smsc.SmscApplication - No active profile set, falling back to 1 default profile: "default"
+2025-05-29 13:58:45 [restartedMain] INFO  com.http.smsc.SmscApplication - Started SmscApplication in 0.952 seconds (process running for 48.693)
+2025-05-29 14:01:23 [http-nio-8080-exec-10] WARN  c.h.s.s.impl.HttpSmscServiceImpl - Get failed: HttpSmscEntry not found with systemId: Userxml48
+2025-05-29 14:03:15 [http-nio-8080-exec-7] INFO  c.h.s.s.impl.HttpSmscServiceImpl - Created HttpSmscEntry with systemId: thirduser
+2025-05-29 14:04:00 [http-nio-8080-exec-9] INFO  c.h.s.s.impl.HttpSmscServiceImpl - Created HttpSmscEntry with systemId: thirduser
+2025-05-29 14:57:15 [restartedMain] INFO  com.http.smsc.SmscApplication - Starting SmscApplication using Java 17.0.12 with PID 26156 (C:\Users\kg718\Downloads\smsc\smsc\target\classes started by kg718 in C:\Users\kg718\Downloads\smsc\smsc)
+2025-05-29 14:57:15 [restartedMain] DEBUG com.http.smsc.SmscApplication - Running with Spring Boot v3.5.0, Spring v6.2.7
+2025-05-29 14:57:15 [restartedMain] INFO  com.http.smsc.SmscApplication - No active profile set, falling back to 1 default profile: "default"
+2025-05-29 14:57:21 [restartedMain] INFO  com.http.smsc.SmscApplication - Started SmscApplication in 7.183 seconds (process running for 8.152)
+2025-05-29 14:57:32 [http-nio-8080-exec-2] INFO  c.h.s.s.impl.HttpSmscServiceImpl - Created HttpSmscEntry with systemId: thirduser
+2025-05-29 15:01:21 [http-nio-8080-exec-1] INFO  c.h.s.s.impl.HttpSmscServiceImpl - Created HttpSmscEntry with systemId: Userxml48
+2025-05-29 15:02:44 [restartedMain] INFO  com.http.smsc.SmscApplication - Starting SmscApplication using Java 17.0.12 with PID 26156 (C:\Users\kg718\Downloads\smsc\smsc\target\classes started by kg718 in C:\Users\kg718\Downloads\smsc\smsc)
+2025-05-29 15:02:44 [restartedMain] DEBUG com.http.smsc.SmscApplication - Running with Spring Boot v3.5.0, Spring v6.2.7
+2025-05-29 15:02:44 [restartedMain] INFO  com.http.smsc.SmscApplication - No active profile set, falling back to 1 default profile: "default"
+2025-05-29 15:37:58 [restartedMain] INFO  com.http.smsc.SmscApplication - Starting SmscApplication using Java 17.0.12 with PID 20760 (C:\Users\kg718\Downloads\smsc\smsc\target\classes started by kg718 in C:\Users\kg718\Downloads\smsc\smsc)
+2025-05-29 15:37:58 [restartedMain] DEBUG com.http.smsc.SmscApplication - Running with Spring Boot v3.5.0, Spring v6.2.7
+2025-05-29 15:37:58 [restartedMain] INFO  com.http.smsc.SmscApplication - No active profile set, falling back to 1 default profile: "default"
+2025-05-29 15:38:05 [restartedMain] INFO  com.http.smsc.SmscApplication - Started SmscApplication in 8.405 seconds (process running for 9.205)
+2025-05-29 15:40:28 [restartedMain] INFO  com.http.smsc.SmscApplication - Starting SmscApplication using Java 17.0.12 with PID 20760 (C:\Users\kg718\Downloads\smsc\smsc\target\classes started by kg718 in C:\Users\kg718\Downloads\smsc\smsc)
+2025-05-29 15:40:28 [restartedMain] DEBUG com.http.smsc.SmscApplication - Running with Spring Boot v3.5.0, Spring v6.2.7
+2025-05-29 15:40:28 [restartedMain] INFO  com.http.smsc.SmscApplication - No active profile set, falling back to 1 default profile: "default"
+2025-05-29 15:40:29 [restartedMain] INFO  com.http.smsc.SmscApplication - Started SmscApplication in 1.521 seconds (process running for 153.266)
+2025-05-29 15:46:23 [restartedMain] INFO  com.http.smsc.SmscApplication - Starting SmscApplication using Java 17.0.12 with PID 20760 (C:\Users\kg718\Downloads\smsc\smsc\target\classes started by kg718 in C:\Users\kg718\Downloads\smsc\smsc)
+2025-05-29 15:46:23 [restartedMain] DEBUG com.http.smsc.SmscApplication - Running with Spring Boot v3.5.0, Spring v6.2.7
+2025-05-29 15:46:23 [restartedMain] INFO  com.http.smsc.SmscApplication - No active profile set, falling back to 1 default profile: "default"
+2025-05-29 15:46:25 [restartedMain] INFO  com.http.smsc.SmscApplication - Started SmscApplication in 1.49 seconds (process running for 508.7)
+2025-05-29 15:49:24 [restartedMain] INFO  com.http.smsc.SmscApplication - Starting SmscApplication using Java 17.0.12 with PID 20760 (C:\Users\kg718\Downloads\smsc\smsc\target\classes started by kg718 in C:\Users\kg718\Downloads\smsc\smsc)
+2025-05-29 15:49:24 [restartedMain] DEBUG com.http.smsc.SmscApplication - Running with Spring Boot v3.5.0, Spring v6.2.7
+2025-05-29 15:49:24 [restartedMain] INFO  com.http.smsc.SmscApplication - No active profile set, falling back to 1 default profile: "default"
+2025-05-29 15:49:25 [restartedMain] INFO  com.http.smsc.SmscApplication - Started SmscApplication in 0.958 seconds (process running for 689.026)
+2025-05-29 15:49:55 [restartedMain] INFO  com.http.smsc.SmscApplication - Starting SmscApplication using Java 17.0.12 with PID 11844 (C:\Users\kg718\Downloads\smsc\smsc\target\classes started by kg718 in C:\Users\kg718\Downloads\smsc\smsc)
+2025-05-29 15:49:55 [restartedMain] DEBUG com.http.smsc.SmscApplication - Running with Spring Boot v3.5.0, Spring v6.2.7
+2025-05-29 15:49:55 [restartedMain] INFO  com.http.smsc.SmscApplication - No active profile set, falling back to 1 default profile: "default"
+2025-05-29 15:50:02 [restartedMain] INFO  com.http.smsc.SmscApplication - Started SmscApplication in 8.392 seconds (process running for 9.212)
+2025-05-29 15:52:01 [restartedMain] INFO  com.http.smsc.SmscApplication - Starting SmscApplication using Java 17.0.12 with PID 11844 (C:\Users\kg718\Downloads\smsc\smsc\target\classes started by kg718 in C:\Users\kg718\Downloads\smsc\smsc)
+2025-05-29 15:52:01 [restartedMain] DEBUG com.http.smsc.SmscApplication - Running with Spring Boot v3.5.0, Spring v6.2.7
+2025-05-29 15:52:01 [restartedMain] INFO  com.http.smsc.SmscApplication - No active profile set, falling back to 1 default profile: "default"
+2025-05-29 15:52:03 [restartedMain] INFO  com.http.smsc.SmscApplication - Started SmscApplication in 1.494 seconds (process running for 129.749)
+2025-05-29 15:53:33 [restartedMain] INFO  com.http.smsc.SmscApplication - Starting SmscApplication using Java 17.0.12 with PID 11844 (C:\Users\kg718\Downloads\smsc\smsc\target\classes started by kg718 in C:\Users\kg718\Downloads\smsc\smsc)
+2025-05-29 15:53:33 [restartedMain] DEBUG com.http.smsc.SmscApplication - Running with Spring Boot v3.5.0, Spring v6.2.7
+2025-05-29 15:53:33 [restartedMain] INFO  com.http.smsc.SmscApplication - No active profile set, falling back to 1 default profile: "default"
+2025-05-29 15:53:34 [restartedMain] INFO  com.http.smsc.SmscApplication - Started SmscApplication in 1.32 seconds (process running for 221.041)
+2025-05-29 15:58:11 [restartedMain] INFO  com.http.smsc.SmscApplication - Starting SmscApplication using Java 17.0.12 with PID 11844 (C:\Users\kg718\Downloads\smsc\smsc\target\classes started by kg718 in C:\Users\kg718\Downloads\smsc\smsc)
+2025-05-29 15:58:11 [restartedMain] DEBUG com.http.smsc.SmscApplication - Running with Spring Boot v3.5.0, Spring v6.2.7
+2025-05-29 15:58:11 [restartedMain] INFO  com.http.smsc.SmscApplication - No active profile set, falling back to 1 default profile: "default"
+2025-05-29 15:59:14 [restartedMain] INFO  com.http.smsc.SmscApplication - Starting SmscApplication using Java 17.0.12 with PID 24788 (C:\Users\kg718\Downloads\smsc\smsc\target\classes started by kg718 in C:\Users\kg718\Downloads\smsc\smsc)
+2025-05-29 15:59:14 [restartedMain] DEBUG com.http.smsc.SmscApplication - Running with Spring Boot v3.5.0, Spring v6.2.7
+2025-05-29 15:59:14 [restartedMain] INFO  com.http.smsc.SmscApplication - No active profile set, falling back to 1 default profile: "default"
+2025-05-29 15:59:22 [restartedMain] INFO  com.http.smsc.SmscApplication - Started SmscApplication in 9.045 seconds (process running for 9.797)
+2025-05-29 16:01:45 [http-nio-8080-exec-6] INFO  c.h.s.s.impl.HttpSmscServiceImpl - Created HttpSmscEntry with systemId: Userxml48
+2025-05-29 16:02:08 [http-nio-8080-exec-8] INFO  c.h.s.s.impl.HttpSmscServiceImpl - Created HttpSmscEntry with systemId: thirduser
+2025-05-29 16:21:58 [restartedMain] INFO  com.http.smsc.SmscApplication - Starting SmscApplication using Java 17.0.12 with PID 24784 (C:\Users\kg718\Downloads\smsc\smsc\target\classes started by kg718 in C:\Users\kg718\Downloads\smsc\smsc)
+2025-05-29 16:21:58 [restartedMain] DEBUG com.http.smsc.SmscApplication - Running with Spring Boot v3.5.0, Spring v6.2.7
+2025-05-29 16:21:58 [restartedMain] INFO  com.http.smsc.SmscApplication - No active profile set, falling back to 1 default profile: "default"
+2025-05-29 16:22:06 [restartedMain] INFO  com.http.smsc.SmscApplication - Started SmscApplication in 9.617 seconds (process running for 10.488)
+2025-05-29 16:24:37 [restartedMain] INFO  com.http.smsc.SmscApplication - Starting SmscApplication using Java 17.0.12 with PID 24784 (C:\Users\kg718\Downloads\smsc\smsc\target\classes started by kg718 in C:\Users\kg718\Downloads\smsc\smsc)
+2025-05-29 16:24:37 [restartedMain] DEBUG com.http.smsc.SmscApplication - Running with Spring Boot v3.5.0, Spring v6.2.7
+2025-05-29 16:24:37 [restartedMain] INFO  com.http.smsc.SmscApplication - No active profile set, falling back to 1 default profile: "default"
+2025-05-29 16:24:38 [restartedMain] INFO  com.http.smsc.SmscApplication - Started SmscApplication in 1.629 seconds (process running for 162.761)
+2025-05-29 16:31:47 [restartedMain] INFO  com.http.smsc.SmscApplication - Starting SmscApplication using Java 17.0.12 with PID 5460 (C:\Users\kg718\Downloads\smsc\smsc\target\classes started by kg718 in C:\Users\kg718\Downloads\smsc\smsc)
+2025-05-29 16:31:47 [restartedMain] DEBUG com.http.smsc.SmscApplication - Running with Spring Boot v3.5.0, Spring v6.2.7
+2025-05-29 16:31:47 [restartedMain] INFO  com.http.smsc.SmscApplication - No active profile set, falling back to 1 default profile: "default"
+2025-05-29 16:31:54 [restartedMain] INFO  com.http.smsc.SmscApplication - Started SmscApplication in 8.882 seconds (process running for 9.805)
+2025-05-29 16:34:59 [restartedMain] INFO  com.http.smsc.SmscApplication - Starting SmscApplication using Java 17.0.12 with PID 5460 (C:\Users\kg718\Downloads\smsc\smsc\target\classes started by kg718 in C:\Users\kg718\Downloads\smsc\smsc)
+2025-05-29 16:34:59 [restartedMain] DEBUG com.http.smsc.SmscApplication - Running with Spring Boot v3.5.0, Spring v6.2.7
+2025-05-29 16:34:59 [restartedMain] INFO  com.http.smsc.SmscApplication - No active profile set, falling back to 1 default profile: "default"
+2025-05-29 16:35:01 [restartedMain] INFO  com.http.smsc.SmscApplication - Started SmscApplication in 1.615 seconds (process running for 196.209)
+2025-05-29 16:38:45 [restartedMain] INFO  com.http.smsc.SmscApplication - Starting SmscApplication using Java 17.0.12 with PID 12556 (C:\Users\kg718\Downloads\smsc\smsc\target\classes started by kg718 in C:\Users\kg718\Downloads\smsc\smsc)
+2025-05-29 16:38:45 [restartedMain] DEBUG com.http.smsc.SmscApplication - Running with Spring Boot v3.5.0, Spring v6.2.7
+2025-05-29 16:38:45 [restartedMain] INFO  com.http.smsc.SmscApplication - No active profile set, falling back to 1 default profile: "default"
+2025-05-29 16:38:53 [restartedMain] INFO  com.http.smsc.SmscApplication - Started SmscApplication in 9.158 seconds (process running for 9.969)
+2025-05-29 16:40:37 [restartedMain] INFO  com.http.smsc.SmscApplication - Starting SmscApplication using Java 17.0.12 with PID 12556 (C:\Users\kg718\Downloads\smsc\smsc\target\classes started by kg718 in C:\Users\kg718\Downloads\smsc\smsc)
+2025-05-29 16:40:37 [restartedMain] DEBUG com.http.smsc.SmscApplication - Running with Spring Boot v3.5.0, Spring v6.2.7
+2025-05-29 16:40:37 [restartedMain] INFO  com.http.smsc.SmscApplication - No active profile set, falling back to 1 default profile: "default"
+2025-05-29 16:40:38 [restartedMain] INFO  com.http.smsc.SmscApplication - Started SmscApplication in 1.386 seconds (process running for 115.037)
+2025-05-29 16:41:26 [main] INFO  com.http.smsc.SmscApplicationTests - Starting SmscApplicationTests using Java 17.0.12 with PID 25572 (started by kg718 in C:\Users\kg718\Downloads\smsc\smsc)
+2025-05-29 16:41:26 [main] DEBUG com.http.smsc.SmscApplicationTests - Running with Spring Boot v3.5.0, Spring v6.2.7
+2025-05-29 16:41:26 [main] INFO  com.http.smsc.SmscApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2025-05-29 16:41:33 [main] INFO  com.http.smsc.SmscApplicationTests - Started SmscApplicationTests in 7.266 seconds (process running for 9.171)
+2025-05-29 16:47:55 [restartedMain] INFO  com.http.smsc.SmscApplication - Starting SmscApplication using Java 17.0.12 with PID 25336 (C:\Users\kg718\Downloads\smsc\smsc\target\classes started by kg718 in C:\Users\kg718\Downloads\smsc\smsc)
+2025-05-29 16:47:55 [restartedMain] DEBUG com.http.smsc.SmscApplication - Running with Spring Boot v3.5.0, Spring v6.2.7
+2025-05-29 16:47:55 [restartedMain] INFO  com.http.smsc.SmscApplication - No active profile set, falling back to 1 default profile: "default"
+2025-05-29 16:48:02 [restartedMain] INFO  com.http.smsc.SmscApplication - Started SmscApplication in 8.896 seconds (process running for 9.685)
+2025-05-29 17:02:53 [restartedMain] INFO  com.http.smsc.SmscApplication - Starting SmscApplication using Java 17.0.12 with PID 5868 (C:\Users\kg718\Downloads\smsc\smsc\target\classes started by kg718 in C:\Users\kg718\Downloads\smsc\smsc)
+2025-05-29 17:02:53 [restartedMain] DEBUG com.http.smsc.SmscApplication - Running with Spring Boot v3.5.0, Spring v6.2.7
+2025-05-29 17:02:53 [restartedMain] INFO  com.http.smsc.SmscApplication - No active profile set, falling back to 1 default profile: "default"
+2025-05-29 17:03:00 [restartedMain] INFO  com.http.smsc.SmscApplication - Started SmscApplication in 8.162 seconds (process running for 8.886)
+2025-05-29 17:04:07 [http-nio-8080-exec-10] INFO  c.h.s.s.impl.HttpSmscServiceImpl - Created HttpSmscEntry with systemId: Userxml48
+2025-05-29 17:04:53 [http-nio-8080-exec-3] INFO  c.h.s.s.impl.HttpSmscServiceImpl - Created HttpSmscEntry with systemId: Userxml48
